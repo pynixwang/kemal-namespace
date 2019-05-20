@@ -1,0 +1,13 @@
+name: kemal-namespace
+version: 0.1.0
+
+authors:
+  - pynixwang <pynix.wang@gmail.com>
+
+crystal: 0.28.0
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
